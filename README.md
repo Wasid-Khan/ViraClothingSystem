@@ -5,7 +5,7 @@ The followings are the two types of user.
 1. Admin
 2. Customer
 
-ADMIN: After successfully verifying the user as an admin, he/she will be able to Add, Search, Update, Delete records. Along with that, the admin can Display, and Generate Bills accordingly. He/she can also add to cart. In simple words, admin has the complete privilages to control the system's functionalities, unlike customer.
+ADMIN: After successfully verifying the user as an admin, he/she will be able to Add, Search, Update, and Delete records. Along with that, the admin can Display, and Generate Bills accordingly. He/she can also add to cart. In simple words, admin has the complete privilages to control the system's functionalities, unlike customer.
 
 CUSTOMER: There are further two types of customer privilages, 
 1. Guest User.
